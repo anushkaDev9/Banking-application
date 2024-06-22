@@ -1,0 +1,26 @@
+@media screen and (max-width:765px) and (min-width:320px){
+   
+ 
+#card-div{
+margin-top: 8%;
+width:90%;
+ margin-left: 5%;
+}
+
+}
+
+@media screen and (min-width:1000px){
+ 
+#card-div{
+   
+ width: 45%;
+margin-left: 27%;
+margin-top: 8%;
+}
+
+}
+button{
+
+             color: white;
+             
+}

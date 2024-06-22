@@ -1,0 +1,35 @@
+@media screen and (max-width:765px) and (min-width:320px){
+   
+   
+#cardd-div{
+margin-top: 15%;
+ width: 80%;
+
+ margin-left: 12%;
+}
+button{
+     width: 60%;
+              margin-left: 20%;
+              margin-top: 4%;
+}
+}
+
+@media screen and (min-width:1000px){
+ 
+#cardd-div{
+   
+ width: 30%;
+margin-left: 35%;
+margin-top: 8%;
+}
+button{
+     width: 30%;
+              margin-left: 30%;
+              margin-top: 3%;
+}
+}
+button{
+
+             color: white;
+             
+}

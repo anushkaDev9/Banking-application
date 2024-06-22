@@ -1,0 +1,64 @@
+.error{
+    border: 2px solid red;
+    background-color:rgb(241, 125, 125) ;
+
+}
+.correct{
+    border: 2px solid rgb(34, 120, 5);
+    background-color:rgb(169, 247, 143) ;
+}
+.error-text{
+    color: red;
+    margin-left: 10%;
+}
+
+.disable{
+    cursor: not-allowed ;
+ 
+}
+.submitBtn{
+    cursor: pointer;
+ 
+}
+.text{
+    margin-left: 10%;
+      color: red;
+}
+.correct-text{
+    color:rgb(34, 120, 5);
+     margin-left: 10%;
+}
+@media screen and (max-width:765px) and (min-width:320px){
+   
+   
+#card-div{
+margin-top: 8%;
+ width: 70%;
+ margin-left: 15%;
+}
+button{
+     width: 60%;
+              margin-left: 20%;
+              margin-top: 4%;
+}
+}
+
+@media screen and (min-width:1000px){
+ 
+#cards-div{
+   
+ width: 30%;
+margin-left: 35%;
+margin-top: 8%;
+}
+#submit{
+     width: 45%;
+              margin-left: 25%;
+              margin-top: 3%;
+}
+}
+button{
+
+             color: white;
+             
+}
